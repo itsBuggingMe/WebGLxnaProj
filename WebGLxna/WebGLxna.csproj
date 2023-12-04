@@ -26,15 +26,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="BatchTilesComponent.cs" />
     <Compile Include="Pages\Index.razor.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="QuadTxComponent.cs" />
-    <Compile Include="ResourceContentManager.cs" />
-    <Compile Include="RTComponent.cs" />
-    <Compile Include="SpriteComponent.cs" />
-    <Compile Include="SpriteFontComponent.cs" />
-    <Compile Include="TriangleComponent.cs" />
     <Compile Include="WebGLxnaGame.cs" />
   </ItemGroup>
 
